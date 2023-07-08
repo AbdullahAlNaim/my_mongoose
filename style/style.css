@@ -1,0 +1,30 @@
+body {
+    /* background-color: rgb(72, 72, 72); */
+    background-image: url('https://images2.alphacoders.com/778/thumb-1920-77840.jpg');
+    margin: auto 0;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    margin-top: 30%;
+    background-color: rgb(188, 188, 188);
+    width: 300px;
+    border-radius: 7px;
+    padding: 40px 10px;
+    color: rgb(72, 72, 72)
+}
+
+button {
+    border-radius: 5px;
+    border: 0;
+    padding: 10px;
+    margin: 5px;
+}
+
+input {
+    border-radius: 5px;
+    border: 0;
+    padding: 10px;
+    margin-bottom: 10px;
+}
