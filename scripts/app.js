@@ -1,4 +1,5 @@
 const form = document.querySelector('#form');
+console.log("posting from mobile git");
 
 // form.addEventListener('submit', (e) => {
 //     e.preventDefault();
